@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://iciterou.github.io/iciterou.txt.gz
+Sitemap: https://iciterou.github.io/app/iciterou.txt.gz
+Sitemap: https://iciterou.github.io/assets/iciterou.txt.gz
+Sitemap: https://iciterou.github.io/css/iciterou.txt.gz
+Sitemap: https://iciterou.github.io/includes/iciterou.txt.gz
+Sitemap: https://iciterou.github.io/item/iciterou.txt.gz
+Sitemap: https://iciterou.github.io/src/iciterou.txt.gz
